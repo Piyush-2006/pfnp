@@ -17,7 +17,7 @@ Content for the PFNP class taught at General Assembly Singapore.
 ## Examples
 - [Front-End](./frontend)
 - [Back-End](./backend)
-
+ # Piyush Kumar 
 ## Contact
 Create a [new issue](https://github.com/cbas/pfnp/issues/new) for this repository with any questions, suggestions, or feedback on the class.
 
